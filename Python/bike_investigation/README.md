@@ -5,7 +5,7 @@
 
 ## Table of contents
 * [1. Getting started](#1-getting-started)
-* [2. Approach](#2-approach)
+* [2. Available arguments](#2-available-arguments)
 * [3. Contact me](#3-contact-me)
 
 ## 1. Getting started
